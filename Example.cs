@@ -34,3 +34,5 @@ class Program
 //메모리 leak을 방지하기 위한 해결법
 <b>stringList = null;</b>   //'stringList'에 'null'을 할당하여 해제할 수 있다.
 //GC는 더이상 'stringList'가 사용되지 않는 것을 인지하고 해당 메모리를 해제할 수 있다.
+
+#reference(참조) : chat-GPT
